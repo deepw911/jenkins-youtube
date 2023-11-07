@@ -1,0 +1,44 @@
+/* Tag.css */
+
+
+.root{
+margin: 0.5rem 0;
+}
+
+.barSectionRoot{
+display: flex;
+justify-content: space-between;
+padding: 1rem 0.3rem;
+border-bottom: 1px solid azure;
+cursor: pointer;
+}
+
+.barSectionRoot:hover {
+    background-color: #f4f4f4;
+  }
+
+
+.barSection{
+display: flex;
+gap: 0.6rem;
+}
+
+h2 .barSection {
+    font-weight: 550;
+}
+
+@media (max-width: 650px) {
+    p .barSection{
+        display: none;
+    }
+}
+
+
+a{
+margin-top: 0.6rem;
+}
+
+.icon{
+margin-top: 0.8rem;
+margin-left: 0.5rem;
+}

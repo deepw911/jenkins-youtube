@@ -1,0 +1,198 @@
+
+:root {
+    --put-background-color: rgb(255, 119, 0, 0.1);
+    --put-border-color: rgb(255, 119, 0);
+    --get-background-color: rgb(46, 70, 179, 0.1);
+    --get-border-color: rgb(46, 70, 179);
+    --patch-background-color: rgb(36, 171, 47, 0.1);
+    --patch-border-color: rgb(36, 171, 47);
+    --delete-background-color: rgb(255, 0, 21, 0.1);
+    --delete-border-color: rgb(255, 0, 21);
+    --put-section-background-color: rgb(255, 119, 0, 0.6);
+    --get-section-background-color: rgb(46, 70, 179, 0.6);
+    --patch-section-background-color: rgb(36, 171, 47, 0.6);
+    --delete-section-background-color: rgb(255, 0, 21, 0.6);
+  }
+  
+  .put {
+    background-color: var(--put-background-color);
+    border: 1px solid var(--put-border-color);
+  }
+  
+  .get {
+    background-color: var(--get-background-color);
+    border: 1px solid var(--get-border-color);
+  }
+  
+  .patch {
+    background-color: var(--patch-background-color);
+    border: 1px solid var(--patch-border-color);
+  }
+  
+  .delete {
+    background-color: var(--delete-background-color);
+    border: 1px solid var(--delete-border-color);
+  }
+
+  
+
+
+/* Root */
+
+
+/* HeaderContainer */
+
+.headerContainer {
+  margin: 0.6rem 0;
+  padding: 0.6rem 0.5rem;
+  border-radius: 4px 4px 0 0;
+  cursor: pointer;
+}
+
+.notOpen{
+    border-radius: 4px;
+}
+
+/* Header */
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr 7fr;
+  gap: 0.7rem;
+  position: static;
+}
+
+.header section {
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: 0.2rem;
+    padding: 0.2rem 0.7rem;
+    border-radius: 3px;
+    border: 0;
+    text-transform: uppercase;
+    text-align: center;
+    min-width: 80px;
+}
+
+
+.PUT {
+    background-color: var(--put-section-background-color);
+  }
+  
+  .GET {
+    background-color: var(--get-section-background-color);
+  }
+  
+  .PATCH {
+    background-color: var(--patch-section-background-color);
+  }
+  
+  .DELETE {
+    background-color: var(--delete-section-background-color);
+  }
+
+.header h5 {
+  font-weight: 630;
+}
+
+.header div {
+  display: flex;
+  gap: 0.7rem;
+}
+
+.header p {
+  margin-left: 0.4rem;
+  padding: 0;
+  padding-top: 0.1rem;
+}
+
+/* Content */
+
+.content {
+  padding: 0.5rem;
+  /* border-radius: ${({ open }) => (open ? '0 0 4px 4px' : '4px')}; */
+}
+
+.content .responseHeading {
+  background-color: #c7c6c6;
+  padding: 0.8rem 0.4rem;
+  border-radius: 3px;
+  margin: 0.5rem 0;
+  box-shadow: 0 2px 4px rgb(0, 0, 0, 0.2);
+  color: #1d1d1d;
+}
+
+/* RequestBodySection */
+
+.requestBodySection {
+  display: flex;
+  justify-content: space-between;
+  background-color: #c7c6c6;
+  padding: 0.6rem 0.4rem;
+  margin: 0.5rem 0%;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px rgb(0, 0, 0, 0.2);
+}
+  p .requestBodySection {
+      color: #750202;
+      padding: 0;
+      font-size: small;
+      font-weight: 400;
+  }
+  select .requestBodySection {
+      margin-top: 0;
+      margin-bottom: 0;
+      padding: 0.1rem;
+      border: 1px solid azure;
+      border-radius: 3px;
+  }
+
+.headingSectionOfRequestBodySection {
+    display: flex;
+    gap: 0.5rem;
+}
+.headingSectionOfRequestBodySection h4 {
+    color: #1d1d1d;
+}
+
+.contentPaddingRapper {
+    padding: 0.8rem 0.4rem;
+}
+
+
+.responseSectionContent {
+    display: flex;
+    padding: 0.8rem 0.4rem;
+}
+.responseSectionContent .subContentHeading {
+    display: flex;
+    flex: 1;
+    gap: 1.5rem;
+}
+.responseSectionContent h4 {
+    font-weight: 520;
+    margin: 0.4rem 0;
+}
+
+.responseSectionContent[subContentHeadingValue] h4 {
+    font-weight: 330;
+    margin: 0.4rem 0;
+}
+
+.extensionSection:nth-child(odd) h4 {
+    font-weight: 520;
+}
+
+.entensionSubSection {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.5rem;
+    padding: 0.8rem 0.4rem;
+}
+.entensionSubSection h4 {
+    font-weight: 520;
+}
+.entensionSubSection h5 {
+    font-weight: 320;
+    font-size: 1rem;
+}
