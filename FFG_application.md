@@ -1,3 +1,16 @@
+## What are the motivations for applying for FFG?
+
+
+
+
+## What skills are you looking to gain/ enhance from participating in FFG?
+I believe Force for Good offers a unique platform to acquire multiple valuable skills. This program is allowing us to collaborate with new people and solve a real-life challenge that will have an impact on many people’s personal life.
+One can gain  invaluable experience in teamwork and leadership. Since we will be working with many new people, we will learn how to manage our team effectively and how we help others when they are stuck or having doubts. This also give us exposure to our leadership qualities and our ability to work with a team in such a way that we can get the best out of each and every team member.
+Also, looking forward on connecting to not only new SEPs but also connecting with senior leaders and learning from their years of experience. 
+Furthermore we will learn many new things since we will have direct communication with the client, which will teach us how to take feedback and also it will reflect on the gap between what the client is expecting and what developers are thinking.
+Along with all this, we will learn new technologies on the fly, since this is not a 24-hour hackathon, we might have ample time to learn and apply new techs, allowing us to learn and explore new domains.
+
+
 
 ## Have you volunteered for a non profit organization in the past? If yes, describe.
 ## a)Nature of volunteering
