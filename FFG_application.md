@@ -22,7 +22,7 @@ Along with all this, we will learn new technologies on the fly, since this is no
 ## a)Nature of volunteering
  ## b)take -aways from that experience
 
-Yes, I have volunteered for such organizations in the past. That organization provided educational support to underprivileged students. I primarily took mathematics classes for primary students
+Yes, I have volunteered for such organizations in the past. That organization provided educational support to underprivileged students. I primarily took mathematics classes for primary students.
 One of the major takeaways from the experience was to realize that there are so many underprivileged students in the country who are smart and if given the opportunity and platform, can be an exceptional change.
 Many people want to achieve something in life but are not able to achieve it due to lack of resources. By participating in force for good, whatever application we will be creating might provide that platform and bridge the gap for these individuals. Hence this might be one of the biggest turning points in their lives. 
 
