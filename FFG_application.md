@@ -1,5 +1,9 @@
 ## What are the motivations for applying for FFG?
 
+One of the biggest motivations for applying for FFG is Code for good-2021. It was the first social good hackathon we were participating in and an amazing experience.Back then, we created a management system for mentors to track the progress of students at Laali Project, a remarkable NGO. Laali Project focuses on creating awareness and educating youngsters on crucial topics like gender sensitization, social and emotional learning, menstrual health & hygiene, and entrepreneurial skills. This initiative not only helps those in need but also creates a lasting impact by empowering young minds early on.
+
+Developing a product that supports such organizations and directly impacts people's lives, potentially even transforming their futures, is one of the biggest motivation for me to join this program. Also as I grew up I realized that I had more privilege than many people around the globe, so I think if I am getting an opportunity to give back to society and bring a  change then I should contribute towards it. 
+Another reason for applying is that I am giving myself a challenge to build something to solve a real-life problem whose impact will be visible firsthand to us.
 
 
 
